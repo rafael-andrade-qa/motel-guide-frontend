@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "motel-guide-frontend": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
